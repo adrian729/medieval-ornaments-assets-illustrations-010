@@ -1,0 +1,4891 @@
+[
+  {
+    "description": "A brown bull with an upturned head, horns and a curling tail. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bull",
+      "horn",
+      "tail",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "tan"
+    ],
+    "composition": "standalone",
+    "name": "brown-bull-with-upturned-head",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/brown-bull-with-upturned-head.png",
+    "webp": "webp/brown-bull-with-upturned-head.webp",
+    "width": 591,
+    "height": 576,
+    "png_bytes": 407339,
+    "webp_bytes": 305206,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/brown-bull-with-upturned-head.png",
+        "webp": "webp/128/brown-bull-with-upturned-head.webp",
+        "width": 128,
+        "height": 125,
+        "png_bytes": 25610,
+        "webp_bytes": 21702
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/brown-bull-with-upturned-head.png",
+        "webp": "webp/256/brown-bull-with-upturned-head.webp",
+        "width": 256,
+        "height": 250,
+        "png_bytes": 87761,
+        "webp_bytes": 69468
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/brown-bull-with-upturned-head.png",
+        "webp": "webp/512/brown-bull-with-upturned-head.webp",
+        "width": 512,
+        "height": 499,
+        "png_bytes": 311802,
+        "webp_bytes": 240802
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 591,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Crowned David in a brown robe sitting on a small red seat and playing a harp. Part of the Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029) set.",
+    "categories": [
+      "humans",
+      "music",
+      "royalty"
+    ],
+    "subjects": [
+      "david",
+      "king",
+      "crown",
+      "harp",
+      "musician",
+      "seat"
+    ],
+    "facing": "front",
+    "colors": [
+      "brown",
+      "gold",
+      "red",
+      "cream"
+    ],
+    "composition": "standalone",
+    "name": "crowned-david-seated-playing-harp",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-031-029",
+    "png": "png/crowned-david-seated-playing-harp.png",
+    "webp": "webp/crowned-david-seated-playing-harp.webp",
+    "width": 970,
+    "height": 1605,
+    "png_bytes": 2132242,
+    "webp_bytes": 1514632,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crowned-david-seated-playing-harp.png",
+        "webp": "webp/128/crowned-david-seated-playing-harp.webp",
+        "width": 77,
+        "height": 128,
+        "png_bytes": 21641,
+        "webp_bytes": 18556
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crowned-david-seated-playing-harp.png",
+        "webp": "webp/256/crowned-david-seated-playing-harp.webp",
+        "width": 155,
+        "height": 256,
+        "png_bytes": 74521,
+        "webp_bytes": 56970
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crowned-david-seated-playing-harp.png",
+        "webp": "webp/512/crowned-david-seated-playing-harp.webp",
+        "width": 309,
+        "height": 512,
+        "png_bytes": 262899,
+        "webp_bytes": 193278
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crowned-david-seated-playing-harp.png",
+        "webp": "webp/768/crowned-david-seated-playing-harp.webp",
+        "width": 464,
+        "height": 768,
+        "png_bytes": 558851,
+        "webp_bytes": 410226
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Historiated initial G from an antiphonary depicting David as a musician",
+      "object_identifier": "Lewis E M 31:29 Historiated initial G from an antiphonary depicting David as a musician",
+      "date": "(Portugal, 1600-1699)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_031_029.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "24a2f7c8131c3845961249a78a4f686dc66dea3f589c5b5fe7f3aafec248987a",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_031_029/data/master/7916_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-031-029-set",
+        "name": "Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5178,
+      "height": 4832
+    },
+    "master_longest_dimension_cap": 1605,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A two-faced crowned alchemical figure with one gold wing and one blue wing, holding a chalice with three green serpent heads. Part of the Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027) set.",
+    "categories": [
+      "humans",
+      "hybrids",
+      "royalty",
+      "fantasy"
+    ],
+    "subjects": [
+      "human-figure",
+      "two-faces",
+      "crown",
+      "wing",
+      "chalice",
+      "serpent"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "red",
+      "black"
+    ],
+    "composition": "single-figure",
+    "name": "crowned-winged-figure-with-chalice",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-028-026-027",
+    "png": "png/crowned-winged-figure-with-chalice.png",
+    "webp": "webp/crowned-winged-figure-with-chalice.webp",
+    "width": 1100,
+    "height": 1271,
+    "png_bytes": 1707915,
+    "webp_bytes": 1250572,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crowned-winged-figure-with-chalice.png",
+        "webp": "webp/128/crowned-winged-figure-with-chalice.webp",
+        "width": 111,
+        "height": 128,
+        "png_bytes": 25648,
+        "webp_bytes": 20638
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crowned-winged-figure-with-chalice.png",
+        "webp": "webp/256/crowned-winged-figure-with-chalice.webp",
+        "width": 222,
+        "height": 256,
+        "png_bytes": 87532,
+        "webp_bytes": 65762
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crowned-winged-figure-with-chalice.png",
+        "webp": "webp/512/crowned-winged-figure-with-chalice.webp",
+        "width": 443,
+        "height": 512,
+        "png_bytes": 310118,
+        "webp_bytes": 226924
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crowned-winged-figure-with-chalice.png",
+        "webp": "webp/768/crowned-winged-figure-with-chalice.webp",
+        "width": 665,
+        "height": 768,
+        "png_bytes": 671995,
+        "webp_bytes": 490652
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature from an alchemical manuscript",
+      "object_identifier": "Lewis E M 28:26-27 Miniature from an alchemical manuscript",
+      "date": "(Italy (northern?), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original alchemical figure, with contacting chalice retained. Background miniature sky and ground removed; original paint surfaces opaque. AI-assisted extraction is approximate; original scan, exact prompt and native caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-028-026-027-set",
+        "name": "Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3064,
+      "height": 3226
+    },
+    "master_longest_dimension_cap": 1271,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A dark green bird with a long beak, folded or raised feathers and a small curled tail. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bird",
+      "wing",
+      "beak",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "dark-green-long-beaked-bird",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/dark-green-long-beaked-bird.png",
+    "webp": "webp/dark-green-long-beaked-bird.webp",
+    "width": 552,
+    "height": 478,
+    "png_bytes": 270687,
+    "webp_bytes": 196064,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/dark-green-long-beaked-bird.png",
+        "webp": "webp/128/dark-green-long-beaked-bird.webp",
+        "width": 128,
+        "height": 111,
+        "png_bytes": 18791,
+        "webp_bytes": 14672
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/dark-green-long-beaked-bird.png",
+        "webp": "webp/256/dark-green-long-beaked-bird.webp",
+        "width": 256,
+        "height": 222,
+        "png_bytes": 65071,
+        "webp_bytes": 49234
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/dark-green-long-beaked-bird.png",
+        "webp": "webp/512/dark-green-long-beaked-bird.webp",
+        "width": 512,
+        "height": 443,
+        "png_bytes": 230247,
+        "webp_bytes": 172492
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 552,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A dark branching sprig with hanging oval seed pods. Part of the Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "seed-pod",
+      "stem",
+      "plant"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "green",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "dark-seed-pod-sprig",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-028-026-027",
+    "png": "png/dark-seed-pod-sprig.png",
+    "webp": "webp/dark-seed-pod-sprig.webp",
+    "width": 368,
+    "height": 809,
+    "png_bytes": 195805,
+    "webp_bytes": 144488,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/dark-seed-pod-sprig.png",
+        "webp": "webp/128/dark-seed-pod-sprig.webp",
+        "width": 58,
+        "height": 128,
+        "png_bytes": 8901,
+        "webp_bytes": 7098
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/dark-seed-pod-sprig.png",
+        "webp": "webp/256/dark-seed-pod-sprig.webp",
+        "width": 116,
+        "height": 256,
+        "png_bytes": 26924,
+        "webp_bytes": 21796
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/dark-seed-pod-sprig.png",
+        "webp": "webp/512/dark-seed-pod-sprig.webp",
+        "width": 233,
+        "height": 512,
+        "png_bytes": 88719,
+        "webp_bytes": 67100
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/dark-seed-pod-sprig.png",
+        "webp": "webp/768/dark-seed-pod-sprig.webp",
+        "width": 349,
+        "height": 768,
+        "png_bytes": 181196,
+        "webp_bytes": 136532
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature from an alchemical manuscript",
+      "object_identifier": "Lewis E M 28:26-27 Miniature from an alchemical manuscript",
+      "date": "(Italy (northern?), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original painted source subject with background cleared, no invented hidden parts. Native-size cap and exact extraction prompt retained. The complete landscape scene and its independent subjects are available separately; AI extraction is approximate.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-028-026-027-set",
+        "name": "Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3064,
+      "height": 3226
+    },
+    "master_longest_dimension_cap": 809,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two seated zodiac figures embracing, one in blue and one in brown. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "couple",
+      "embrace",
+      "zodiac"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "blue",
+      "brown",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "embracing-zodiac-twins",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/embracing-zodiac-twins.png",
+    "webp": "webp/embracing-zodiac-twins.webp",
+    "width": 605,
+    "height": 595,
+    "png_bytes": 596992,
+    "webp_bytes": 445130,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/embracing-zodiac-twins.png",
+        "webp": "webp/128/embracing-zodiac-twins.webp",
+        "width": 128,
+        "height": 126,
+        "png_bytes": 33392,
+        "webp_bytes": 26940
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/embracing-zodiac-twins.png",
+        "webp": "webp/256/embracing-zodiac-twins.webp",
+        "width": 256,
+        "height": 252,
+        "png_bytes": 118182,
+        "webp_bytes": 92876
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/embracing-zodiac-twins.png",
+        "webp": "webp/512/embracing-zodiac-twins.webp",
+        "width": 512,
+        "height": 504,
+        "png_bytes": 432460,
+        "webp_bytes": 332226
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 605,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small brown bird flying with outstretched wings and a red beak. Part of the Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bird",
+      "wing",
+      "beak"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "flying-brown-bird-with-red-beak",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-031-029",
+    "png": "png/flying-brown-bird-with-red-beak.png",
+    "webp": "webp/flying-brown-bird-with-red-beak.webp",
+    "width": 505,
+    "height": 534,
+    "png_bytes": 273685,
+    "webp_bytes": 192948,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/flying-brown-bird-with-red-beak.png",
+        "webp": "webp/128/flying-brown-bird-with-red-beak.webp",
+        "width": 121,
+        "height": 128,
+        "png_bytes": 20646,
+        "webp_bytes": 16894
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/flying-brown-bird-with-red-beak.png",
+        "webp": "webp/256/flying-brown-bird-with-red-beak.webp",
+        "width": 242,
+        "height": 256,
+        "png_bytes": 71074,
+        "webp_bytes": 51822
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/flying-brown-bird-with-red-beak.png",
+        "webp": "webp/512/flying-brown-bird-with-red-beak.webp",
+        "width": 484,
+        "height": 512,
+        "png_bytes": 253405,
+        "webp_bytes": 183724
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Historiated initial G from an antiphonary depicting David as a musician",
+      "object_identifier": "Lewis E M 31:29 Historiated initial G from an antiphonary depicting David as a musician",
+      "date": "(Portugal, 1600-1699)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_031_029.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "24a2f7c8131c3845961249a78a4f686dc66dea3f589c5b5fe7f3aafec248987a",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_031_029/data/master/7916_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-031-029-set",
+        "name": "Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5178,
+      "height": 4832
+    },
+    "master_longest_dimension_cap": 534,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A dark green fruit tree with small rust orange fruits and a branching brown trunk. Part of the Walters W.171 Tree of Life set.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "tree",
+      "fruit",
+      "leaf",
+      "trunk",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "orange",
+      "brown",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "fruit-tree-with-branching-trunk",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-74r",
+    "png": "png/fruit-tree-with-branching-trunk.png",
+    "webp": "webp/fruit-tree-with-branching-trunk.webp",
+    "width": 1048,
+    "height": 1481,
+    "png_bytes": 1469423,
+    "webp_bytes": 1068680,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fruit-tree-with-branching-trunk.png",
+        "webp": "webp/128/fruit-tree-with-branching-trunk.webp",
+        "width": 91,
+        "height": 128,
+        "png_bytes": 18759,
+        "webp_bytes": 14674
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fruit-tree-with-branching-trunk.png",
+        "webp": "webp/256/fruit-tree-with-branching-trunk.webp",
+        "width": 181,
+        "height": 256,
+        "png_bytes": 61052,
+        "webp_bytes": 47362
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fruit-tree-with-branching-trunk.png",
+        "webp": "webp/512/fruit-tree-with-branching-trunk.webp",
+        "width": 362,
+        "height": 512,
+        "png_bytes": 207795,
+        "webp_bytes": 155746
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fruit-tree-with-branching-trunk.png",
+        "webp": "webp/768/fruit-tree-with-branching-trunk.webp",
+        "width": 543,
+        "height": 768,
+        "png_bytes": 436489,
+        "webp_bytes": 325264
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Tree of life with its twelve fruits",
+      "object_identifier": "W.171, fol. 74r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "878b61a760f94af3ffe5387ab19269c7835067f75aa1bb6e884cf80467e0bc80",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000151_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-74r-set",
+        "name": "Walters W.171 Tree of Life"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9528
+    },
+    "master_longest_dimension_cap": 1481,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A gold lion with an open mouth and a curling tufted tail. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "lion",
+      "tail",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gold-lion-with-curled-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/gold-lion-with-curled-tail.png",
+    "webp": "webp/gold-lion-with-curled-tail.webp",
+    "width": 621,
+    "height": 565,
+    "png_bytes": 493462,
+    "webp_bytes": 363458,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-lion-with-curled-tail.png",
+        "webp": "webp/128/gold-lion-with-curled-tail.webp",
+        "width": 128,
+        "height": 116,
+        "png_bytes": 29164,
+        "webp_bytes": 24096
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-lion-with-curled-tail.png",
+        "webp": "webp/256/gold-lion-with-curled-tail.webp",
+        "width": 256,
+        "height": 233,
+        "png_bytes": 97810,
+        "webp_bytes": 75902
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-lion-with-curled-tail.png",
+        "webp": "webp/512/gold-lion-with-curled-tail.webp",
+        "width": 512,
+        "height": 466,
+        "png_bytes": 343870,
+        "webp_bytes": 262576
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 621,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Gold weighing scales with two suspended blue pans. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "scales",
+      "balance",
+      "pan",
+      "zodiac"
+    ],
+    "facing": "front",
+    "colors": [
+      "gold",
+      "blue"
+    ],
+    "composition": "standalone",
+    "name": "gold-scales-with-two-blue-pans",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/gold-scales-with-two-blue-pans.png",
+    "webp": "webp/gold-scales-with-two-blue-pans.webp",
+    "width": 514,
+    "height": 561,
+    "png_bytes": 250242,
+    "webp_bytes": 197024,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-scales-with-two-blue-pans.png",
+        "webp": "webp/128/gold-scales-with-two-blue-pans.webp",
+        "width": 117,
+        "height": 128,
+        "png_bytes": 18713,
+        "webp_bytes": 16152
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-scales-with-two-blue-pans.png",
+        "webp": "webp/256/gold-scales-with-two-blue-pans.webp",
+        "width": 235,
+        "height": 256,
+        "png_bytes": 61723,
+        "webp_bytes": 49826
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-scales-with-two-blue-pans.png",
+        "webp": "webp/512/gold-scales-with-two-blue-pans.webp",
+        "width": 469,
+        "height": 512,
+        "png_bytes": 214361,
+        "webp_bytes": 170836
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 561,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A delicate golden branching sprig with hanging seed pods. Part of the Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "seed-pod",
+      "stem",
+      "plant"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gold-seed-pod-sprig",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-028-026-027",
+    "png": "png/gold-seed-pod-sprig.png",
+    "webp": "webp/gold-seed-pod-sprig.webp",
+    "width": 283,
+    "height": 669,
+    "png_bytes": 97130,
+    "webp_bytes": 77694,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-seed-pod-sprig.png",
+        "webp": "webp/128/gold-seed-pod-sprig.webp",
+        "width": 54,
+        "height": 128,
+        "png_bytes": 7365,
+        "webp_bytes": 5006
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-seed-pod-sprig.png",
+        "webp": "webp/256/gold-seed-pod-sprig.webp",
+        "width": 108,
+        "height": 256,
+        "png_bytes": 20730,
+        "webp_bytes": 15712
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-seed-pod-sprig.png",
+        "webp": "webp/512/gold-seed-pod-sprig.webp",
+        "width": 217,
+        "height": 512,
+        "png_bytes": 66047,
+        "webp_bytes": 54810
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature from an alchemical manuscript",
+      "object_identifier": "Lewis E M 28:26-27 Miniature from an alchemical manuscript",
+      "date": "(Italy (northern?), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Faded and damaged original seed-pod paint retained as it survives in the source, including discontinuous original gold marks; no invented seeds or restored stalk. Native source RGB preserved in opaque interiors, continuous alpha and edge decontamination at the contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-028-026-027-set",
+        "name": "Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3064,
+      "height": 3226
+    },
+    "master_longest_dimension_cap": 669,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A gray green Gothic fountain with pointed architectural spire, tiered basins and curved blue water jets. Part of the Walters W.171 Fountain of Life set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "fountain",
+      "water",
+      "basin",
+      "spire",
+      "architecture"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "green",
+      "blue",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "gothic-tiered-fountain-with-water-jets",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-19v",
+    "png": "png/gothic-tiered-fountain-with-water-jets.png",
+    "webp": "webp/gothic-tiered-fountain-with-water-jets.webp",
+    "width": 978,
+    "height": 1481,
+    "png_bytes": 1677516,
+    "webp_bytes": 1220604,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gothic-tiered-fountain-with-water-jets.png",
+        "webp": "webp/128/gothic-tiered-fountain-with-water-jets.webp",
+        "width": 85,
+        "height": 128,
+        "png_bytes": 18899,
+        "webp_bytes": 15666
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gothic-tiered-fountain-with-water-jets.png",
+        "webp": "webp/256/gothic-tiered-fountain-with-water-jets.webp",
+        "width": 169,
+        "height": 256,
+        "png_bytes": 65062,
+        "webp_bytes": 48272
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gothic-tiered-fountain-with-water-jets.png",
+        "webp": "webp/512/gothic-tiered-fountain-with-water-jets.webp",
+        "width": 338,
+        "height": 512,
+        "png_bytes": 231857,
+        "webp_bytes": 170182
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/gothic-tiered-fountain-with-water-jets.png",
+        "webp": "webp/768/gothic-tiered-fountain-with-water-jets.webp",
+        "width": 507,
+        "height": 768,
+        "png_bytes": 497504,
+        "webp_bytes": 363472
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Fountain of life and the four rivers of paradise",
+      "object_identifier": "W.171, fol. 19v",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "7b8e07b49e49546ff6a8a9e461fec058f6e83b15735aa1c67478d248ab2765c3",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000042_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-19v-set",
+        "name": "Walters W.171 Fountain of Life"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9241,
+      "height": 9664
+    },
+    "master_longest_dimension_cap": 1481,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A gray ram with a curled horn and small hooves. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ram",
+      "horn",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gray-curled-horn-ram",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/gray-curled-horn-ram.png",
+    "webp": "webp/gray-curled-horn-ram.webp",
+    "width": 522,
+    "height": 544,
+    "png_bytes": 368528,
+    "webp_bytes": 267808,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-curled-horn-ram.png",
+        "webp": "webp/128/gray-curled-horn-ram.webp",
+        "width": 123,
+        "height": 128,
+        "png_bytes": 27781,
+        "webp_bytes": 21786
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-curled-horn-ram.png",
+        "webp": "webp/256/gray-curled-horn-ram.webp",
+        "width": 246,
+        "height": 256,
+        "png_bytes": 92885,
+        "webp_bytes": 70248
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-curled-horn-ram.png",
+        "webp": "webp/512/gray-curled-horn-ram.webp",
+        "width": 491,
+        "height": 512,
+        "png_bytes": 328373,
+        "webp_bytes": 244542
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 544,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A gray goat with long backward-curving horns and a small beard. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "goat",
+      "horn",
+      "zodiac"
+    ],
+    "facing": "right",
+    "colors": [
+      "gray",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gray-long-horned-goat",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/gray-long-horned-goat.png",
+    "webp": "webp/gray-long-horned-goat.webp",
+    "width": 594,
+    "height": 642,
+    "png_bytes": 425112,
+    "webp_bytes": 307762,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-long-horned-goat.png",
+        "webp": "webp/128/gray-long-horned-goat.webp",
+        "width": 118,
+        "height": 128,
+        "png_bytes": 24511,
+        "webp_bytes": 17944
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-long-horned-goat.png",
+        "webp": "webp/256/gray-long-horned-goat.webp",
+        "width": 237,
+        "height": 256,
+        "png_bytes": 82530,
+        "webp_bytes": 62126
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-long-horned-goat.png",
+        "webp": "webp/512/gray-long-horned-goat.webp",
+        "width": 474,
+        "height": 512,
+        "png_bytes": 285445,
+        "webp_bytes": 210316
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 642,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pale reclining lamb beneath a thin gold cross wrapped with a blue and white ribbon. Part of the Historiated initial A from an antiphonary depicting the Agnus Dei (openn-lewis-e-m-017-007) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "lamb",
+      "cross",
+      "ribbon"
+    ],
+    "facing": "right",
+    "colors": [
+      "cream",
+      "gold",
+      "blue",
+      "white"
+    ],
+    "composition": "single-figure",
+    "name": "lamb-with-cross-and-ribbon",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-017-007",
+    "png": "png/lamb-with-cross-and-ribbon.png",
+    "webp": "webp/lamb-with-cross-and-ribbon.webp",
+    "width": 1188,
+    "height": 1263,
+    "png_bytes": 1623621,
+    "webp_bytes": 1148958,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lamb-with-cross-and-ribbon.png",
+        "webp": "webp/128/lamb-with-cross-and-ribbon.webp",
+        "width": 120,
+        "height": 128,
+        "png_bytes": 25671,
+        "webp_bytes": 19880
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lamb-with-cross-and-ribbon.png",
+        "webp": "webp/256/lamb-with-cross-and-ribbon.webp",
+        "width": 241,
+        "height": 256,
+        "png_bytes": 87291,
+        "webp_bytes": 63774
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lamb-with-cross-and-ribbon.png",
+        "webp": "webp/512/lamb-with-cross-and-ribbon.webp",
+        "width": 482,
+        "height": 512,
+        "png_bytes": 308280,
+        "webp_bytes": 220970
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lamb-with-cross-and-ribbon.png",
+        "webp": "webp/768/lamb-with-cross-and-ribbon.webp",
+        "width": 722,
+        "height": 768,
+        "png_bytes": 656813,
+        "webp_bytes": 470066
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Historiated initial A from an antiphonary depicting the Agnus Dei",
+      "object_identifier": "Lewis E M 17:7 Historiated initial A from an antiphonary depicting the Agnus Dei",
+      "date": "(Germany, 1500-1599)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_017_007.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "8ea874ab25c1ef0cdb9dfe784ac7ab65529fc013d4d8f7222d70de42ff5c70d6",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_017_007/data/master/7638_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-017-007-set",
+        "name": "Historiated initial A from an antiphonary depicting the Agnus Dei (openn-lewis-e-m-017-007)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4434,
+      "height": 4872
+    },
+    "master_longest_dimension_cap": 1263,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A large red brown butterfly with cream wing bands and thin legs. Part of the Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "butterfly",
+      "wing",
+      "antenna"
+    ],
+    "facing": "left",
+    "colors": [
+      "red",
+      "brown",
+      "cream",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "large-red-brown-butterfly-with-cream-wing-bars",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-031-029",
+    "png": "png/large-red-brown-butterfly-with-cream-wing-bars.png",
+    "webp": "webp/large-red-brown-butterfly-with-cream-wing-bars.webp",
+    "width": 629,
+    "height": 680,
+    "png_bytes": 623942,
+    "webp_bytes": 450082,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-red-brown-butterfly-with-cream-wing-bars.png",
+        "webp": "webp/128/large-red-brown-butterfly-with-cream-wing-bars.webp",
+        "width": 118,
+        "height": 128,
+        "png_bytes": 30926,
+        "webp_bytes": 24190
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-red-brown-butterfly-with-cream-wing-bars.png",
+        "webp": "webp/256/large-red-brown-butterfly-with-cream-wing-bars.webp",
+        "width": 237,
+        "height": 256,
+        "png_bytes": 106265,
+        "webp_bytes": 79640
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-red-brown-butterfly-with-cream-wing-bars.png",
+        "webp": "webp/512/large-red-brown-butterfly-with-cream-wing-bars.webp",
+        "width": 474,
+        "height": 512,
+        "png_bytes": 374684,
+        "webp_bytes": 276916
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Historiated initial G from an antiphonary depicting David as a musician",
+      "object_identifier": "Lewis E M 31:29 Historiated initial G from an antiphonary depicting David as a musician",
+      "date": "(Portugal, 1600-1699)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_031_029.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "24a2f7c8131c3845961249a78a4f686dc66dea3f589c5b5fe7f3aafec248987a",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_031_029/data/master/7916_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-031-029-set",
+        "name": "Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5178,
+      "height": 4832
+    },
+    "master_longest_dimension_cap": 680,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A blue-robed angel playing a small wind instrument, with its long red and blue wings. Part of the Two angels serenading salvator mundi (walters-w186-276v) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "wind-instrument"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "red",
+      "gold",
+      "cream"
+    ],
+    "composition": "standalone",
+    "name": "left-blue-robed-angel-musician",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-276v",
+    "png": "png/left-blue-robed-angel-musician.png",
+    "webp": "webp/left-blue-robed-angel-musician.webp",
+    "width": 603,
+    "height": 2098,
+    "png_bytes": 1382935,
+    "webp_bytes": 1042124,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-blue-robed-angel-musician.png",
+        "webp": "webp/128/left-blue-robed-angel-musician.webp",
+        "width": 37,
+        "height": 128,
+        "png_bytes": 8803,
+        "webp_bytes": 8278
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-blue-robed-angel-musician.png",
+        "webp": "webp/256/left-blue-robed-angel-musician.webp",
+        "width": 74,
+        "height": 256,
+        "png_bytes": 29238,
+        "webp_bytes": 23348
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/left-blue-robed-angel-musician.png",
+        "webp": "webp/512/left-blue-robed-angel-musician.webp",
+        "width": 147,
+        "height": 512,
+        "png_bytes": 101367,
+        "webp_bytes": 78374
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/left-blue-robed-angel-musician.png",
+        "webp": "webp/768/left-blue-robed-angel-musician.webp",
+        "width": 221,
+        "height": 768,
+        "png_bytes": 213843,
+        "webp_bytes": 165486
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading salvator mundi",
+      "object_identifier": "W.186, fol. 276v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete source-visible contacting group. Expanded source input prevents clipping wings; low original enclosure retained where physically supporting figures. AI-assisted approximate extraction with exact original/prompts and native visible subject cap.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-276v-set",
+        "name": "Two angels serenading salvator mundi (walters-w186-276v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6644,
+      "height": 8538
+    },
+    "master_longest_dimension_cap": 2098,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small dark green leafy tree with a bent trunk beside the original fountain. Part of the Walters W.171 Fountain of Life set.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "tree",
+      "leaf",
+      "trunk"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "brown",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "left-dark-leafy-tree",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-19v",
+    "png": "png/left-dark-leafy-tree.png",
+    "webp": "webp/left-dark-leafy-tree.webp",
+    "width": 625,
+    "height": 1302,
+    "png_bytes": 642602,
+    "webp_bytes": 467770,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-dark-leafy-tree.png",
+        "webp": "webp/128/left-dark-leafy-tree.webp",
+        "width": 61,
+        "height": 128,
+        "png_bytes": 11358,
+        "webp_bytes": 8394
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-dark-leafy-tree.png",
+        "webp": "webp/256/left-dark-leafy-tree.webp",
+        "width": 123,
+        "height": 256,
+        "png_bytes": 37027,
+        "webp_bytes": 27896
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/left-dark-leafy-tree.png",
+        "webp": "webp/512/left-dark-leafy-tree.webp",
+        "width": 246,
+        "height": 512,
+        "png_bytes": 121466,
+        "webp_bytes": 89722
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/left-dark-leafy-tree.png",
+        "webp": "webp/768/left-dark-leafy-tree.webp",
+        "width": 369,
+        "height": 768,
+        "png_bytes": 251160,
+        "webp_bytes": 185684
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Fountain of life and the four rivers of paradise",
+      "object_identifier": "W.171, fol. 19v",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "7b8e07b49e49546ff6a8a9e461fec058f6e83b15735aa1c67478d248ab2765c3",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000042_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-19v-set",
+        "name": "Walters W.171 Fountain of Life"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9241,
+      "height": 9664
+    },
+    "master_longest_dimension_cap": 1302,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A left-facing brown long-tailed quadruped with an open mouth, pale body marks and a gold trefoil touching its inward-curled tail. Part of the Initial \"C\" (Cristus paganis) (walters-w148-52r) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "quadruped",
+      "tail",
+      "paw",
+      "trefoil"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream",
+      "black",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w148-52r",
+    "png": "png/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+    "webp": "webp/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+    "width": 1843,
+    "height": 606,
+    "png_bytes": 1240408,
+    "webp_bytes": 956728,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/128/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 128,
+        "height": 42,
+        "png_bytes": 12232,
+        "webp_bytes": 9676
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/256/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 256,
+        "height": 84,
+        "png_bytes": 37918,
+        "webp_bytes": 28020
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/512/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 512,
+        "height": 168,
+        "png_bytes": 121098,
+        "webp_bytes": 92088
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/768/left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 768,
+        "height": 253,
+        "png_bytes": 241635,
+        "webp_bytes": 185786
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"C\" (Cristus paganis)",
+      "object_identifier": "W.148, fol. 52r",
+      "date": "First half of the 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "14c2bbca973c92502440f3e1d29b625dd889235829001b37318aba49eb307abf",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000107_819.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete native source-visible quadruped and the contacting gilt trefoil in its curled tail remain one group. The two disconnected creatures are separate assets. Painted cream patches, eye and pale ear are opaque. Source RGB/proportions retained; alpha ownership and narrow edge cleanup are approximate and individually audited. No SVG inferred for textured pigment and gilding.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w148-52r-set",
+        "name": "Initial \"C\" (Cristus paganis) (walters-w148-52r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8845,
+      "height": 10487
+    },
+    "master_longest_dimension_cap": 1843,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A green-robed angel playing a small stringed instrument. Part of the Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "robe",
+      "musical-instrument"
+    ],
+    "facing": "right",
+    "colors": [
+      "green",
+      "gold",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "left-green-robed-angel-with-small-stringed-instrument",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-285r",
+    "png": "png/left-green-robed-angel-with-small-stringed-instrument.png",
+    "webp": "webp/left-green-robed-angel-with-small-stringed-instrument.webp",
+    "width": 542,
+    "height": 1728,
+    "png_bytes": 1436428,
+    "webp_bytes": 1118592,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-green-robed-angel-with-small-stringed-instrument.png",
+        "webp": "webp/128/left-green-robed-angel-with-small-stringed-instrument.webp",
+        "width": 40,
+        "height": 128,
+        "png_bytes": 12174,
+        "webp_bytes": 11640
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-green-robed-angel-with-small-stringed-instrument.png",
+        "webp": "webp/256/left-green-robed-angel-with-small-stringed-instrument.webp",
+        "width": 80,
+        "height": 256,
+        "png_bytes": 42298,
+        "webp_bytes": 36008
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/left-green-robed-angel-with-small-stringed-instrument.png",
+        "webp": "webp/512/left-green-robed-angel-with-small-stringed-instrument.webp",
+        "width": 161,
+        "height": 512,
+        "png_bytes": 152013,
+        "webp_bytes": 125650
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/left-green-robed-angel-with-small-stringed-instrument.png",
+        "webp": "webp/768/left-green-robed-angel-with-small-stringed-instrument.webp",
+        "width": 241,
+        "height": 768,
+        "png_bytes": 321129,
+        "webp_bytes": 262574
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+      "object_identifier": "W.186, fol. 285r",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-285r-set",
+        "name": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6707,
+      "height": 8424
+    },
+    "master_longest_dimension_cap": 1728,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A lower curving trail of alternating pointed ivy leaves ending beside a small gold flower. Part of the Decorated initial I (openn-lewis-e-m-012-002) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "ivy",
+      "leaf",
+      "stem",
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "pink",
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "lower-curving-ivy-trail-with-gold-flower",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-012-002",
+    "png": "png/lower-curving-ivy-trail-with-gold-flower.png",
+    "webp": "webp/lower-curving-ivy-trail-with-gold-flower.webp",
+    "width": 1316,
+    "height": 1047,
+    "png_bytes": 543154,
+    "webp_bytes": 392032,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-curving-ivy-trail-with-gold-flower.png",
+        "webp": "webp/128/lower-curving-ivy-trail-with-gold-flower.webp",
+        "width": 128,
+        "height": 102,
+        "png_bytes": 11717,
+        "webp_bytes": 8542
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-curving-ivy-trail-with-gold-flower.png",
+        "webp": "webp/256/lower-curving-ivy-trail-with-gold-flower.webp",
+        "width": 256,
+        "height": 204,
+        "png_bytes": 34615,
+        "webp_bytes": 26168
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-curving-ivy-trail-with-gold-flower.png",
+        "webp": "webp/512/lower-curving-ivy-trail-with-gold-flower.webp",
+        "width": 512,
+        "height": 407,
+        "png_bytes": 107071,
+        "webp_bytes": 77300
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lower-curving-ivy-trail-with-gold-flower.png",
+        "webp": "webp/768/lower-curving-ivy-trail-with-gold-flower.webp",
+        "width": 768,
+        "height": 611,
+        "png_bytes": 215490,
+        "webp_bytes": 154098
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial I",
+      "object_identifier": "Lewis E M 12:2 Decorated initial I",
+      "date": "(Unknown, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_002.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "e1117e320d96362cbf215301ddf346be0c3408ca582068335ece6317fb417f65",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_002/data/master/7527_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-012-002-set",
+        "name": "Decorated initial I (openn-lewis-e-m-012-002)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2772,
+      "height": 5078
+    },
+    "master_longest_dimension_cap": 1316,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A smaller silver gray fish with red-edged fins and a forked tail. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "fish",
+      "fin",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "lower-silver-fish-with-red-fins",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/lower-silver-fish-with-red-fins.png",
+    "webp": "webp/lower-silver-fish-with-red-fins.webp",
+    "width": 545,
+    "height": 194,
+    "png_bytes": 144592,
+    "webp_bytes": 107690,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-silver-fish-with-red-fins.png",
+        "webp": "webp/128/lower-silver-fish-with-red-fins.webp",
+        "width": 128,
+        "height": 46,
+        "png_bytes": 10199,
+        "webp_bytes": 8394
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-silver-fish-with-red-fins.png",
+        "webp": "webp/256/lower-silver-fish-with-red-fins.webp",
+        "width": 256,
+        "height": 91,
+        "png_bytes": 35058,
+        "webp_bytes": 27798
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-silver-fish-with-red-fins.png",
+        "webp": "webp/512/lower-silver-fish-with-red-fins.webp",
+        "width": 512,
+        "height": 182,
+        "png_bytes": 129456,
+        "webp_bytes": 98588
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 545,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Armored winged Michael and assisting angels fighting winged demons, with shared swords and shield.",
+    "categories": [
+      "humans",
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "michael",
+      "angel",
+      "demon",
+      "combat",
+      "sword",
+      "shield",
+      "wing"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "gold",
+      "red",
+      "blue",
+      "green",
+      "white",
+      "brown"
+    ],
+    "composition": "multiple-figures",
+    "name": "michael-and-angels-battling-winged-demons",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-015-014",
+    "png": "png/michael-and-angels-battling-winged-demons.png",
+    "webp": "webp/michael-and-angels-battling-winged-demons.webp",
+    "width": 965,
+    "height": 1606,
+    "png_bytes": 2637041,
+    "webp_bytes": 1930372,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/michael-and-angels-battling-winged-demons.png",
+        "webp": "webp/128/michael-and-angels-battling-winged-demons.webp",
+        "width": 77,
+        "height": 128,
+        "png_bytes": 30169,
+        "webp_bytes": 24280
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/michael-and-angels-battling-winged-demons.png",
+        "webp": "webp/256/michael-and-angels-battling-winged-demons.webp",
+        "width": 154,
+        "height": 256,
+        "png_bytes": 101548,
+        "webp_bytes": 78514
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/michael-and-angels-battling-winged-demons.png",
+        "webp": "webp/512/michael-and-angels-battling-winged-demons.webp",
+        "width": 308,
+        "height": 512,
+        "png_bytes": 343240,
+        "webp_bytes": 253634
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/michael-and-angels-battling-winged-demons.png",
+        "webp": "webp/768/michael-and-angels-battling-winged-demons.webp",
+        "width": 461,
+        "height": 768,
+        "png_bytes": 707825,
+        "webp_bytes": 525594
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature depicting Michael the Archangel fighting the dragon with his angels",
+      "object_identifier": "Lewis E M 15:14 Miniature depicting Michael the Archangel fighting the dragon with his angels",
+      "date": "(France, 1500-1525)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_015_014.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "dc349fcfe99eb31780d4c2e52269108de7e392d53540d280c8ead993ed38ec05",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_015_014/data/master/7600_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2468,
+      "height": 3188
+    },
+    "master_longest_dimension_cap": 1606,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An orange maned hybrid with a large curled blue wing, gold feathered neck and green clawed feet. Part of the Decorated initial D (openn-lewis-e-m-023-019) set.",
+    "categories": [
+      "animals",
+      "hybrids"
+    ],
+    "subjects": [
+      "hybrid",
+      "mane",
+      "wing",
+      "claw"
+    ],
+    "facing": "right",
+    "colors": [
+      "orange",
+      "gold",
+      "blue",
+      "green",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "orange-maned-hybrid-with-blue-wing-and-green-claws",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-023-019",
+    "png": "png/orange-maned-hybrid-with-blue-wing-and-green-claws.png",
+    "webp": "webp/orange-maned-hybrid-with-blue-wing-and-green-claws.webp",
+    "width": 1152,
+    "height": 1332,
+    "png_bytes": 2051648,
+    "webp_bytes": 1480104,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/orange-maned-hybrid-with-blue-wing-and-green-claws.png",
+        "webp": "webp/128/orange-maned-hybrid-with-blue-wing-and-green-claws.webp",
+        "width": 111,
+        "height": 128,
+        "png_bytes": 29260,
+        "webp_bytes": 22658
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/orange-maned-hybrid-with-blue-wing-and-green-claws.png",
+        "webp": "webp/256/orange-maned-hybrid-with-blue-wing-and-green-claws.webp",
+        "width": 221,
+        "height": 256,
+        "png_bytes": 101665,
+        "webp_bytes": 76258
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/orange-maned-hybrid-with-blue-wing-and-green-claws.png",
+        "webp": "webp/512/orange-maned-hybrid-with-blue-wing-and-green-claws.webp",
+        "width": 443,
+        "height": 512,
+        "png_bytes": 358108,
+        "webp_bytes": 266310
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/orange-maned-hybrid-with-blue-wing-and-green-claws.png",
+        "webp": "webp/768/orange-maned-hybrid-with-blue-wing-and-green-claws.webp",
+        "width": 664,
+        "height": 768,
+        "png_bytes": 754710,
+        "webp_bytes": 559320
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial D",
+      "object_identifier": "Lewis E M 23:19 Decorated initial D",
+      "date": "(Italy (northern), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_023_019.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "97a7ab5ba6b2a74e7237f1e746a6fbee1861cda4a783f9f67ce42b41dbaf7c0e",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_023_019/data/master/7731_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-023-019-set",
+        "name": "Decorated initial D (openn-lewis-e-m-023-019)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4346,
+      "height": 3332
+    },
+    "master_longest_dimension_cap": 1332,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pink and red pair of broad lobed leaves joined by a curled blue stem, separated from a decorated initial. Part of the Decorated initial A (openn-lewis-e-m-013-004) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "stem",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "red",
+      "blue",
+      "white"
+    ],
+    "composition": "standalone",
+    "name": "pink-and-red-lobed-leaves-on-blue-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-013-004",
+    "png": "png/pink-and-red-lobed-leaves-on-blue-stem.png",
+    "webp": "webp/pink-and-red-lobed-leaves-on-blue-stem.webp",
+    "width": 938,
+    "height": 660,
+    "png_bytes": 901411,
+    "webp_bytes": 639252,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pink-and-red-lobed-leaves-on-blue-stem.png",
+        "webp": "webp/128/pink-and-red-lobed-leaves-on-blue-stem.webp",
+        "width": 128,
+        "height": 90,
+        "png_bytes": 24748,
+        "webp_bytes": 19068
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pink-and-red-lobed-leaves-on-blue-stem.png",
+        "webp": "webp/256/pink-and-red-lobed-leaves-on-blue-stem.webp",
+        "width": 256,
+        "height": 180,
+        "png_bytes": 82463,
+        "webp_bytes": 60770
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pink-and-red-lobed-leaves-on-blue-stem.png",
+        "webp": "webp/512/pink-and-red-lobed-leaves-on-blue-stem.webp",
+        "width": 512,
+        "height": 360,
+        "png_bytes": 289621,
+        "webp_bytes": 211414
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pink-and-red-lobed-leaves-on-blue-stem.png",
+        "webp": "webp/768/pink-and-red-lobed-leaves-on-blue-stem.webp",
+        "width": 768,
+        "height": 540,
+        "png_bytes": 619311,
+        "webp_bytes": 451718
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial A",
+      "object_identifier": "Lewis E M 13:4 Decorated initial A",
+      "date": "(France, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_013_004.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "bd223771b0b17277b33e49d62b922cbe4347a136175800173ed36091d233a81c",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_013_004/data/master/7554_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-013-004-set",
+        "name": "Decorated initial A (openn-lewis-e-m-013-004)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2370,
+      "height": 2744
+    },
+    "master_longest_dimension_cap": 938,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A reclining green dragon biting a gold rectangular bar. Part of the Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027) set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "dragon",
+      "wing",
+      "bar"
+    ],
+    "facing": "left",
+    "colors": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "reclining-green-dragon-biting-gold-bar",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-028-026-027",
+    "png": "png/reclining-green-dragon-biting-gold-bar.png",
+    "webp": "webp/reclining-green-dragon-biting-gold-bar.webp",
+    "width": 1481,
+    "height": 371,
+    "png_bytes": 653954,
+    "webp_bytes": 470904,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/reclining-green-dragon-biting-gold-bar.png",
+        "webp": "webp/128/reclining-green-dragon-biting-gold-bar.webp",
+        "width": 128,
+        "height": 32,
+        "png_bytes": 8136,
+        "webp_bytes": 6686
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/reclining-green-dragon-biting-gold-bar.png",
+        "webp": "webp/256/reclining-green-dragon-biting-gold-bar.webp",
+        "width": 256,
+        "height": 64,
+        "png_bytes": 26465,
+        "webp_bytes": 20920
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/reclining-green-dragon-biting-gold-bar.png",
+        "webp": "webp/512/reclining-green-dragon-biting-gold-bar.webp",
+        "width": 512,
+        "height": 128,
+        "png_bytes": 91655,
+        "webp_bytes": 69894
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/reclining-green-dragon-biting-gold-bar.png",
+        "webp": "webp/768/reclining-green-dragon-biting-gold-bar.webp",
+        "width": 768,
+        "height": 192,
+        "png_bytes": 193699,
+        "webp_bytes": 144342
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature from an alchemical manuscript",
+      "object_identifier": "Lewis E M 28:26-27 Miniature from an alchemical manuscript",
+      "date": "(Italy (northern?), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original painted source subject with background cleared, no invented hidden parts. Native-size cap and exact extraction prompt retained. The complete landscape scene and its independent subjects are available separately; AI extraction is approximate.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-028-026-027-set",
+        "name": "Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3064,
+      "height": 3226
+    },
+    "master_longest_dimension_cap": 1481,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A red crab with raised claws and curved side legs. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "crab",
+      "claw",
+      "zodiac"
+    ],
+    "facing": "front",
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "composition": "standalone",
+    "name": "red-crab-with-raised-claws",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/red-crab-with-raised-claws.png",
+    "webp": "webp/red-crab-with-raised-claws.webp",
+    "width": 517,
+    "height": 542,
+    "png_bytes": 390032,
+    "webp_bytes": 305194,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-crab-with-raised-claws.png",
+        "webp": "webp/128/red-crab-with-raised-claws.webp",
+        "width": 122,
+        "height": 128,
+        "png_bytes": 29738,
+        "webp_bytes": 24764
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-crab-with-raised-claws.png",
+        "webp": "webp/256/red-crab-with-raised-claws.webp",
+        "width": 244,
+        "height": 256,
+        "png_bytes": 99577,
+        "webp_bytes": 82304
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-crab-with-raised-claws.png",
+        "webp": "webp/512/red-crab-with-raised-claws.webp",
+        "width": 488,
+        "height": 512,
+        "png_bytes": 354367,
+        "webp_bytes": 281722
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 542,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A red lobed flower and blue leaf joined by a pale forked stem, separated from a decorated initial. Part of the Decorated initial A (openn-lewis-e-m-013-004) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "pink",
+      "white"
+    ],
+    "composition": "standalone",
+    "name": "red-flower-and-blue-leaf-on-pale-forked-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-013-004",
+    "png": "png/red-flower-and-blue-leaf-on-pale-forked-stem.png",
+    "webp": "webp/red-flower-and-blue-leaf-on-pale-forked-stem.webp",
+    "width": 759,
+    "height": 417,
+    "png_bytes": 372396,
+    "webp_bytes": 274954,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-flower-and-blue-leaf-on-pale-forked-stem.png",
+        "webp": "webp/128/red-flower-and-blue-leaf-on-pale-forked-stem.webp",
+        "width": 128,
+        "height": 70,
+        "png_bytes": 15377,
+        "webp_bytes": 12568
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-flower-and-blue-leaf-on-pale-forked-stem.png",
+        "webp": "webp/256/red-flower-and-blue-leaf-on-pale-forked-stem.webp",
+        "width": 256,
+        "height": 141,
+        "png_bytes": 51671,
+        "webp_bytes": 40634
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-flower-and-blue-leaf-on-pale-forked-stem.png",
+        "webp": "webp/512/red-flower-and-blue-leaf-on-pale-forked-stem.webp",
+        "width": 512,
+        "height": 281,
+        "png_bytes": 179307,
+        "webp_bytes": 136594
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial A",
+      "object_identifier": "Lewis E M 13:4 Decorated initial A",
+      "date": "(France, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_013_004.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "bd223771b0b17277b33e49d62b922cbe4347a136175800173ed36091d233a81c",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_013_004/data/master/7554_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-013-004-set",
+        "name": "Decorated initial A (openn-lewis-e-m-013-004)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2370,
+      "height": 2744
+    },
+    "master_longest_dimension_cap": 759,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Christ with an entire tall flower-ended cross staff, tomb and four soldiers. Part of the Initial (openn-lewis-e-m-067-003) set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "christ",
+      "cross",
+      "tomb",
+      "soldier"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "green",
+      "gray",
+      "blue",
+      "cream",
+      "gold"
+    ],
+    "composition": "multiple-figures",
+    "name": "resurrection-with-tomb-and-four-soldiers",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-067-003",
+    "png": "png/resurrection-with-tomb-and-four-soldiers.png",
+    "webp": "webp/resurrection-with-tomb-and-four-soldiers.webp",
+    "width": 999,
+    "height": 1438,
+    "png_bytes": 1947902,
+    "webp_bytes": 1385316,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/resurrection-with-tomb-and-four-soldiers.png",
+        "webp": "webp/128/resurrection-with-tomb-and-four-soldiers.webp",
+        "width": 89,
+        "height": 128,
+        "png_bytes": 24795,
+        "webp_bytes": 20016
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/resurrection-with-tomb-and-four-soldiers.png",
+        "webp": "webp/256/resurrection-with-tomb-and-four-soldiers.webp",
+        "width": 178,
+        "height": 256,
+        "png_bytes": 86515,
+        "webp_bytes": 64950
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/resurrection-with-tomb-and-four-soldiers.png",
+        "webp": "webp/512/resurrection-with-tomb-and-four-soldiers.webp",
+        "width": 356,
+        "height": 512,
+        "png_bytes": 302058,
+        "webp_bytes": 221274
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/resurrection-with-tomb-and-four-soldiers.png",
+        "webp": "webp/768/resurrection-with-tomb-and-four-soldiers.webp",
+        "width": 534,
+        "height": 768,
+        "png_bytes": 633548,
+        "webp_bytes": 455074
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Initial",
+      "object_identifier": "Lewis E M 67:3 Initial",
+      "date": "(Germany, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_067_003.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "2becd60ebef0f327e6a024e616a2aca0277a9beb9958d6e6057f794990a3140a",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_067_003/data/master/8296_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-067-003-set",
+        "name": "Initial (openn-lewis-e-m-067-003)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6516,
+      "height": 8252
+    },
+    "master_longest_dimension_cap": 1438,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A blue-robed angel playing a gold harp, with both very long original wings. Part of the Two angels serenading salvator mundi (walters-w186-276v) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "harp"
+    ],
+    "facing": "left",
+    "colors": [
+      "blue",
+      "red",
+      "gold",
+      "cream"
+    ],
+    "composition": "standalone",
+    "name": "right-blue-robed-angel-with-harp",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-276v",
+    "png": "png/right-blue-robed-angel-with-harp.png",
+    "webp": "webp/right-blue-robed-angel-with-harp.webp",
+    "width": 698,
+    "height": 2125,
+    "png_bytes": 1726974,
+    "webp_bytes": 1303950,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-blue-robed-angel-with-harp.png",
+        "webp": "webp/128/right-blue-robed-angel-with-harp.webp",
+        "width": 42,
+        "height": 128,
+        "png_bytes": 11047,
+        "webp_bytes": 9604
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-blue-robed-angel-with-harp.png",
+        "webp": "webp/256/right-blue-robed-angel-with-harp.webp",
+        "width": 84,
+        "height": 256,
+        "png_bytes": 37457,
+        "webp_bytes": 30890
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-blue-robed-angel-with-harp.png",
+        "webp": "webp/512/right-blue-robed-angel-with-harp.webp",
+        "width": 168,
+        "height": 512,
+        "png_bytes": 130311,
+        "webp_bytes": 100724
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/right-blue-robed-angel-with-harp.png",
+        "webp": "webp/768/right-blue-robed-angel-with-harp.webp",
+        "width": 252,
+        "height": 768,
+        "png_bytes": 272649,
+        "webp_bytes": 208262
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading salvator mundi",
+      "object_identifier": "W.186, fol. 276v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete source-visible contacting group. Expanded source input prevents clipping wings; low original enclosure retained where physically supporting figures. AI-assisted approximate extraction with exact original/prompts and native visible subject cap.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-276v-set",
+        "name": "Two angels serenading salvator mundi (walters-w186-276v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6644,
+      "height": 8538
+    },
+    "master_longest_dimension_cap": 2125,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The right blue-robed angel playing a long original gold lute beside Saint Adrian. Part of the Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "lute",
+      "wing",
+      "robe"
+    ],
+    "facing": "left",
+    "colors": [
+      "blue",
+      "gold",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "right-blue-robed-angel-with-lute",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-285r",
+    "png": "png/right-blue-robed-angel-with-lute.png",
+    "webp": "webp/right-blue-robed-angel-with-lute.webp",
+    "width": 548,
+    "height": 1688,
+    "png_bytes": 1366670,
+    "webp_bytes": 1028864,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-blue-robed-angel-with-lute.png",
+        "webp": "webp/128/right-blue-robed-angel-with-lute.webp",
+        "width": 42,
+        "height": 128,
+        "png_bytes": 12305,
+        "webp_bytes": 11402
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-blue-robed-angel-with-lute.png",
+        "webp": "webp/256/right-blue-robed-angel-with-lute.webp",
+        "width": 83,
+        "height": 256,
+        "png_bytes": 41092,
+        "webp_bytes": 33602
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-blue-robed-angel-with-lute.png",
+        "webp": "webp/512/right-blue-robed-angel-with-lute.webp",
+        "width": 166,
+        "height": 512,
+        "png_bytes": 146073,
+        "webp_bytes": 113062
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/right-blue-robed-angel-with-lute.png",
+        "webp": "webp/768/right-blue-robed-angel-with-lute.webp",
+        "width": 249,
+        "height": 768,
+        "png_bytes": 312115,
+        "webp_bytes": 240632
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+      "object_identifier": "W.186, fol. 285r",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-285r-set",
+        "name": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6707,
+      "height": 8424
+    },
+    "master_longest_dimension_cap": 1688,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small dark green leafy tree with a thin curved trunk beside the original fountain. Part of the Walters W.171 Fountain of Life set.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "tree",
+      "leaf",
+      "trunk"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "brown",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "right-dark-leafy-tree",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-19v",
+    "png": "png/right-dark-leafy-tree.png",
+    "webp": "webp/right-dark-leafy-tree.webp",
+    "width": 518,
+    "height": 730,
+    "png_bytes": 523171,
+    "webp_bytes": 376954,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-dark-leafy-tree.png",
+        "webp": "webp/128/right-dark-leafy-tree.webp",
+        "width": 91,
+        "height": 128,
+        "png_bytes": 20951,
+        "webp_bytes": 16860
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-dark-leafy-tree.png",
+        "webp": "webp/256/right-dark-leafy-tree.webp",
+        "width": 182,
+        "height": 256,
+        "png_bytes": 75368,
+        "webp_bytes": 56530
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-dark-leafy-tree.png",
+        "webp": "webp/512/right-dark-leafy-tree.webp",
+        "width": 363,
+        "height": 512,
+        "png_bytes": 270867,
+        "webp_bytes": 200702
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Fountain of life and the four rivers of paradise",
+      "object_identifier": "W.171, fol. 19v",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "7b8e07b49e49546ff6a8a9e461fec058f6e83b15735aa1c67478d248ab2765c3",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000042_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-19v-set",
+        "name": "Walters W.171 Fountain of Life"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9241,
+      "height": 9664
+    },
+    "master_longest_dimension_cap": 730,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A right-facing brown long-tailed quadruped with an open mouth, pale body marks and a gold trefoil touching its inward-curled tail. Part of the Initial \"C\" (Cristus paganis) (walters-w148-52r) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "quadruped",
+      "tail",
+      "paw",
+      "trefoil"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "cream",
+      "black",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w148-52r",
+    "png": "png/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+    "webp": "webp/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+    "width": 1850,
+    "height": 647,
+    "png_bytes": 1206948,
+    "webp_bytes": 932176,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/128/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 128,
+        "height": 45,
+        "png_bytes": 12013,
+        "webp_bytes": 9488
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/256/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 256,
+        "height": 90,
+        "png_bytes": 36573,
+        "webp_bytes": 27382
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/512/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 512,
+        "height": 179,
+        "png_bytes": 115840,
+        "webp_bytes": 86862
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.png",
+        "webp": "webp/768/right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail.webp",
+        "width": 768,
+        "height": 269,
+        "png_bytes": 232116,
+        "webp_bytes": 181086
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"C\" (Cristus paganis)",
+      "object_identifier": "W.148, fol. 52r",
+      "date": "First half of the 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "14c2bbca973c92502440f3e1d29b625dd889235829001b37318aba49eb307abf",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000107_819.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete native source-visible quadruped and the contacting gilt trefoil in its curled tail remain one group. The two disconnected creatures are separate assets. Painted cream patches, eye and pale ear are opaque. Source RGB/proportions retained; alpha ownership and narrow edge cleanup are approximate and individually audited. No SVG inferred for textured pigment and gilding.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w148-52r-set",
+        "name": "Initial \"C\" (Cristus paganis) (walters-w148-52r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8845,
+      "height": 10487
+    },
+    "master_longest_dimension_cap": 1850,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small original weathered gray/cream profile head turning right, with purple drawn contours, isolated from the marginal gilt roundel. Part of the Walters W.171 Seven Planets set.",
+    "categories": [
+      "humans",
+      "geometric"
+    ],
+    "subjects": [
+      "head",
+      "face",
+      "portrait"
+    ],
+    "facing": "right",
+    "colors": [
+      "gray",
+      "cream",
+      "purple",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "right-facing-gray-and-cream-profile-head",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-10r",
+    "png": "png/right-facing-gray-and-cream-profile-head.png",
+    "webp": "webp/right-facing-gray-and-cream-profile-head.webp",
+    "width": 187,
+    "height": 237,
+    "png_bytes": 69265,
+    "webp_bytes": 58436,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-facing-gray-and-cream-profile-head.png",
+        "webp": "webp/128/right-facing-gray-and-cream-profile-head.webp",
+        "width": 101,
+        "height": 128,
+        "png_bytes": 22501,
+        "webp_bytes": 19114
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)",
+      "object_identifier": "W.171, fol. 10r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original visible marginal portrait isolated from its gilt field, preserving its faint source face/cap contours and pale surfaces. The whole roundel remains within the source rod decoration. No facial restoration, invented detail or source resizing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-10r-set",
+        "name": "Walters W.171 Seven Planets"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9559
+    },
+    "master_longest_dimension_cap": 237,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Saint Adrian with sword and anvil, green armored legs and the lion touching the original feet. Part of the Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r) set.",
+    "categories": [
+      "humans",
+      "animals",
+      "royalty"
+    ],
+    "subjects": [
+      "adrian",
+      "saint",
+      "lion",
+      "sword",
+      "anvil",
+      "armor"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "green",
+      "cream",
+      "gold",
+      "brown"
+    ],
+    "composition": "multiple-figures",
+    "name": "saint-adrian-with-lion-sword-and-anvil",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-285r",
+    "png": "png/saint-adrian-with-lion-sword-and-anvil.png",
+    "webp": "webp/saint-adrian-with-lion-sword-and-anvil.webp",
+    "width": 839,
+    "height": 1875,
+    "png_bytes": 2631122,
+    "webp_bytes": 1836856,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/saint-adrian-with-lion-sword-and-anvil.png",
+        "webp": "webp/128/saint-adrian-with-lion-sword-and-anvil.webp",
+        "width": 57,
+        "height": 128,
+        "png_bytes": 18962,
+        "webp_bytes": 15600
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/saint-adrian-with-lion-sword-and-anvil.png",
+        "webp": "webp/256/saint-adrian-with-lion-sword-and-anvil.webp",
+        "width": 115,
+        "height": 256,
+        "png_bytes": 66799,
+        "webp_bytes": 52284
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/saint-adrian-with-lion-sword-and-anvil.png",
+        "webp": "webp/512/saint-adrian-with-lion-sword-and-anvil.webp",
+        "width": 229,
+        "height": 512,
+        "png_bytes": 236881,
+        "webp_bytes": 173922
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/saint-adrian-with-lion-sword-and-anvil.png",
+        "webp": "webp/768/saint-adrian-with-lion-sword-and-anvil.webp",
+        "width": 344,
+        "height": 768,
+        "png_bytes": 507279,
+        "webp_bytes": 363904
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+      "object_identifier": "W.186, fol. 285r",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-285r-set",
+        "name": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels (walters-w186-285r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6707,
+      "height": 8424
+    },
+    "master_longest_dimension_cap": 1875,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Salvator Mundi in a long brown robe, with a gold halo, open book and a gold orb at the feet. Part of the Two angels serenading salvator mundi (walters-w186-276v) set.",
+    "categories": [
+      "humans",
+      "royalty",
+      "reading"
+    ],
+    "subjects": [
+      "christ",
+      "halo",
+      "book",
+      "robe",
+      "orb"
+    ],
+    "facing": "front",
+    "colors": [
+      "brown",
+      "gold",
+      "red",
+      "green",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "salvator-mundi-with-book-and-gold-orb",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-276v",
+    "png": "png/salvator-mundi-with-book-and-gold-orb.png",
+    "webp": "webp/salvator-mundi-with-book-and-gold-orb.webp",
+    "width": 731,
+    "height": 1901,
+    "png_bytes": 1830197,
+    "webp_bytes": 1282478,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/salvator-mundi-with-book-and-gold-orb.png",
+        "webp": "webp/128/salvator-mundi-with-book-and-gold-orb.webp",
+        "width": 49,
+        "height": 128,
+        "png_bytes": 12197,
+        "webp_bytes": 10900
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/salvator-mundi-with-book-and-gold-orb.png",
+        "webp": "webp/256/salvator-mundi-with-book-and-gold-orb.webp",
+        "width": 98,
+        "height": 256,
+        "png_bytes": 43050,
+        "webp_bytes": 38478
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/salvator-mundi-with-book-and-gold-orb.png",
+        "webp": "webp/512/salvator-mundi-with-book-and-gold-orb.webp",
+        "width": 197,
+        "height": 512,
+        "png_bytes": 157791,
+        "webp_bytes": 120244
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/salvator-mundi-with-book-and-gold-orb.png",
+        "webp": "webp/768/salvator-mundi-with-book-and-gold-orb.webp",
+        "width": 295,
+        "height": 768,
+        "png_bytes": 342209,
+        "webp_bytes": 256684
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Two angels serenading salvator mundi",
+      "object_identifier": "W.186, fol. 276v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-276v-set",
+        "name": "Two angels serenading salvator mundi (walters-w186-276v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6644,
+      "height": 8538
+    },
+    "master_longest_dimension_cap": 1901,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A seated human archer with dark hoofed legs drawing a tall bow. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "humans",
+      "hybrids"
+    ],
+    "subjects": [
+      "archer",
+      "bow",
+      "arrow",
+      "hoof",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "cream",
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "seated-archer-with-hoofed-legs",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/seated-archer-with-hoofed-legs.png",
+    "webp": "webp/seated-archer-with-hoofed-legs.webp",
+    "width": 591,
+    "height": 665,
+    "png_bytes": 535041,
+    "webp_bytes": 389820,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-archer-with-hoofed-legs.png",
+        "webp": "webp/128/seated-archer-with-hoofed-legs.webp",
+        "width": 114,
+        "height": 128,
+        "png_bytes": 27915,
+        "webp_bytes": 22370
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-archer-with-hoofed-legs.png",
+        "webp": "webp/256/seated-archer-with-hoofed-legs.webp",
+        "width": 228,
+        "height": 256,
+        "png_bytes": 92345,
+        "webp_bytes": 70552
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-archer-with-hoofed-legs.png",
+        "webp": "webp/512/seated-archer-with-hoofed-legs.webp",
+        "width": 455,
+        "height": 512,
+        "png_bytes": 328435,
+        "webp_bytes": 245420
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 665,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A seated maiden in a brown robe holding small flower stems. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "humans",
+      "floral"
+    ],
+    "subjects": [
+      "maiden",
+      "flower",
+      "robe",
+      "zodiac"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "cream",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "seated-maiden-holding-small-flowers",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/seated-maiden-holding-small-flowers.png",
+    "webp": "webp/seated-maiden-holding-small-flowers.webp",
+    "width": 488,
+    "height": 645,
+    "png_bytes": 447298,
+    "webp_bytes": 316854,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-maiden-holding-small-flowers.png",
+        "webp": "webp/128/seated-maiden-holding-small-flowers.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 22953,
+        "webp_bytes": 18118
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-maiden-holding-small-flowers.png",
+        "webp": "webp/256/seated-maiden-holding-small-flowers.webp",
+        "width": 194,
+        "height": 256,
+        "png_bytes": 79628,
+        "webp_bytes": 60326
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-maiden-holding-small-flowers.png",
+        "webp": "webp/512/seated-maiden-holding-small-flowers.webp",
+        "width": 387,
+        "height": 512,
+        "png_bytes": 287821,
+        "webp_bytes": 211338
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 645,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small brown and cream spotted butterfly with thin legs and antennae. Part of the Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "butterfly",
+      "wing",
+      "antenna"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "small-spotted-butterfly",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-031-029",
+    "png": "png/small-spotted-butterfly.png",
+    "webp": "webp/small-spotted-butterfly.webp",
+    "width": 386,
+    "height": 411,
+    "png_bytes": 249617,
+    "webp_bytes": 183248,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-spotted-butterfly.png",
+        "webp": "webp/128/small-spotted-butterfly.webp",
+        "width": 120,
+        "height": 128,
+        "png_bytes": 30269,
+        "webp_bytes": 23738
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-spotted-butterfly.png",
+        "webp": "webp/256/small-spotted-butterfly.webp",
+        "width": 240,
+        "height": 256,
+        "png_bytes": 104684,
+        "webp_bytes": 79494
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Historiated initial G from an antiphonary depicting David as a musician",
+      "object_identifier": "Lewis E M 31:29 Historiated initial G from an antiphonary depicting David as a musician",
+      "date": "(Portugal, 1600-1699)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_031_029.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "24a2f7c8131c3845961249a78a4f686dc66dea3f589c5b5fe7f3aafec248987a",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_031_029/data/master/7916_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-031-029-set",
+        "name": "Historiated initial G from an antiphonary depicting David as a musician (openn-lewis-e-m-031-029)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5178,
+      "height": 4832
+    },
+    "master_longest_dimension_cap": 411,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A standing contacting couple sharing a small upright stem. Part of the Ornament with Naked Couple (nga-3513) set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "woman",
+      "couple",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "standing-contacting-couple-with-small-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3513",
+    "png": "png/standing-contacting-couple-with-small-stem.png",
+    "webp": "webp/standing-contacting-couple-with-small-stem.webp",
+    "width": 786,
+    "height": 1925,
+    "png_bytes": 2185915,
+    "webp_bytes": 1130050,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/standing-contacting-couple-with-small-stem.png",
+        "webp": "webp/128/standing-contacting-couple-with-small-stem.webp",
+        "width": 52,
+        "height": 128,
+        "png_bytes": 16094,
+        "webp_bytes": 11254
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/standing-contacting-couple-with-small-stem.png",
+        "webp": "webp/256/standing-contacting-couple-with-small-stem.webp",
+        "width": 105,
+        "height": 256,
+        "png_bytes": 56677,
+        "webp_bytes": 39564
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/standing-contacting-couple-with-small-stem.png",
+        "webp": "webp/512/standing-contacting-couple-with-small-stem.webp",
+        "width": 209,
+        "height": 512,
+        "png_bytes": 219827,
+        "webp_bytes": 132230
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/standing-contacting-couple-with-small-stem.png",
+        "webp": "webp/768/standing-contacting-couple-with-small-stem.webp",
+        "width": 314,
+        "height": 768,
+        "png_bytes": 486023,
+        "webp_bytes": 277020
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Naked Couple",
+      "object_identifier": "1943.3.301",
+      "date": "1532",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182",
+      "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The two figures touch at the shoulder, hands and feet and remain one original group. Original engraved hatching and pale body surfaces are retained as solid artwork, including the touching legs of the left figure and the dark shading of the feet. Fine original hair ribbons and real print-field openings remain separate and transparent. The unrelated monogram, outside plant and photographed edge are excluded. Native source geometry and RGB; no reconstructed anatomy or vector simplification.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "nga-3513-set",
+        "name": "Ornament with Naked Couple (nga-3513)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 945,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 1925,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete alchemical figure and reclining dragon scene, retaining their shared rocky ground and seed-pod plants. Part of the Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027) set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "human-figure",
+      "two-faces",
+      "crown",
+      "wing",
+      "chalice",
+      "serpent",
+      "dragon",
+      "landscape"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "red",
+      "black"
+    ],
+    "composition": "multiple-figures",
+    "name": "two-faced-alchemical-figure-and-dragon-scene",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-028-026-027",
+    "png": "png/two-faced-alchemical-figure-and-dragon-scene.png",
+    "webp": "webp/two-faced-alchemical-figure-and-dragon-scene.webp",
+    "width": 1031,
+    "height": 1451,
+    "png_bytes": 2369232,
+    "webp_bytes": 1750670,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-faced-alchemical-figure-and-dragon-scene.png",
+        "webp": "webp/128/two-faced-alchemical-figure-and-dragon-scene.webp",
+        "width": 91,
+        "height": 128,
+        "png_bytes": 28315,
+        "webp_bytes": 22830
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-faced-alchemical-figure-and-dragon-scene.png",
+        "webp": "webp/256/two-faced-alchemical-figure-and-dragon-scene.webp",
+        "width": 182,
+        "height": 256,
+        "png_bytes": 95591,
+        "webp_bytes": 73610
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-faced-alchemical-figure-and-dragon-scene.png",
+        "webp": "webp/512/two-faced-alchemical-figure-and-dragon-scene.webp",
+        "width": 364,
+        "height": 512,
+        "png_bytes": 337274,
+        "webp_bytes": 253626
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-faced-alchemical-figure-and-dragon-scene.png",
+        "webp": "webp/768/two-faced-alchemical-figure-and-dragon-scene.webp",
+        "width": 546,
+        "height": 768,
+        "png_bytes": 723435,
+        "webp_bytes": 540564
+      }
+    ],
+    "derivation": "mixed-source-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Miniature from an alchemical manuscript",
+      "object_identifier": "Lewis E M 28:26-27 Miniature from an alchemical manuscript",
+      "date": "(Italy (northern?), 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif",
+      "method": "mixed-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original painted source subject with background cleared, no invented hidden parts. Native-size cap and exact extraction prompt retained. The complete landscape scene and its independent subjects are available separately; AI extraction is approximate.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-028-026-027-set",
+        "name": "Miniature from an alchemical manuscript (openn-lewis-e-m-028-026-027)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3064,
+      "height": 3226
+    },
+    "master_longest_dimension_cap": 1451,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two seated musicians with a lute and harp beside a shared architectural fountain. Part of the Circular Ornament with Musicians Playing near a Well (nga-3375) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "musician",
+      "lute",
+      "harp",
+      "fountain"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "two-seated-musicians-with-shared-fountain",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3375",
+    "png": "png/two-seated-musicians-with-shared-fountain.png",
+    "webp": "webp/two-seated-musicians-with-shared-fountain.webp",
+    "width": 1248,
+    "height": 1109,
+    "png_bytes": 2216133,
+    "webp_bytes": 1384670,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-seated-musicians-with-shared-fountain.png",
+        "webp": "webp/128/two-seated-musicians-with-shared-fountain.webp",
+        "width": 128,
+        "height": 114,
+        "png_bytes": 31503,
+        "webp_bytes": 21074
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-seated-musicians-with-shared-fountain.png",
+        "webp": "webp/256/two-seated-musicians-with-shared-fountain.webp",
+        "width": 256,
+        "height": 227,
+        "png_bytes": 111557,
+        "webp_bytes": 68782
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-seated-musicians-with-shared-fountain.png",
+        "webp": "webp/512/two-seated-musicians-with-shared-fountain.webp",
+        "width": 512,
+        "height": 455,
+        "png_bytes": 419540,
+        "webp_bytes": 254550
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-seated-musicians-with-shared-fountain.png",
+        "webp": "webp/768/two-seated-musicians-with-shared-fountain.webp",
+        "width": 768,
+        "height": 682,
+        "png_bytes": 909797,
+        "webp_bytes": 560552
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Circular Ornament with Musicians Playing near a Well",
+      "object_identifier": "1943.3.163",
+      "date": "c. 1495/1503",
+      "artist": "Israhel van Meckenem",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3375.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336",
+      "image_url": "https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "nga-3375-set",
+        "name": "Circular Ornament with Musicians Playing near a Well (nga-3375)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3632,
+      "height": 3688
+    },
+    "master_longest_dimension_cap": 1248,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A long silver gray fish with red-edged fins and a forked tail. Part of the Walters W.171 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "fish",
+      "fin",
+      "zodiac"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "upper-silver-fish-with-red-fins",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-12r",
+    "png": "png/upper-silver-fish-with-red-fins.png",
+    "webp": "webp/upper-silver-fish-with-red-fins.webp",
+    "width": 503,
+    "height": 189,
+    "png_bytes": 139024,
+    "webp_bytes": 108636,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-silver-fish-with-red-fins.png",
+        "webp": "webp/128/upper-silver-fish-with-red-fins.webp",
+        "width": 128,
+        "height": 48,
+        "png_bytes": 11494,
+        "webp_bytes": 9856
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-silver-fish-with-red-fins.png",
+        "webp": "webp/256/upper-silver-fish-with-red-fins.webp",
+        "width": 256,
+        "height": 96,
+        "png_bytes": 39772,
+        "webp_bytes": 32720
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Twelve signs of the zodiac",
+      "object_identifier": "W.171, fol. 12r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-12r-set",
+        "name": "Walters W.171 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9539
+    },
+    "master_longest_dimension_cap": 503,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A slender upper trail of alternating painted pointed ivy leaves with a small gold flower. Part of the Decorated initial I (openn-lewis-e-m-012-002) set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "ivy",
+      "leaf",
+      "stem",
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "pink",
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "upper-trail-of-pointed-ivy-and-gold-flower",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-012-002",
+    "png": "png/upper-trail-of-pointed-ivy-and-gold-flower.png",
+    "webp": "webp/upper-trail-of-pointed-ivy-and-gold-flower.webp",
+    "width": 600,
+    "height": 1625,
+    "png_bytes": 593755,
+    "webp_bytes": 437656,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-trail-of-pointed-ivy-and-gold-flower.png",
+        "webp": "webp/128/upper-trail-of-pointed-ivy-and-gold-flower.webp",
+        "width": 47,
+        "height": 128,
+        "png_bytes": 8962,
+        "webp_bytes": 6766
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-trail-of-pointed-ivy-and-gold-flower.png",
+        "webp": "webp/256/upper-trail-of-pointed-ivy-and-gold-flower.webp",
+        "width": 95,
+        "height": 256,
+        "png_bytes": 26179,
+        "webp_bytes": 20246
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-trail-of-pointed-ivy-and-gold-flower.png",
+        "webp": "webp/512/upper-trail-of-pointed-ivy-and-gold-flower.webp",
+        "width": 189,
+        "height": 512,
+        "png_bytes": 79812,
+        "webp_bytes": 63008
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-trail-of-pointed-ivy-and-gold-flower.png",
+        "webp": "webp/768/upper-trail-of-pointed-ivy-and-gold-flower.webp",
+        "width": 284,
+        "height": 768,
+        "png_bytes": 158449,
+        "webp_bytes": 117282
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial I",
+      "object_identifier": "Lewis E M 12:2 Decorated initial I",
+      "date": "(Unknown, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_002.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "e1117e320d96362cbf215301ddf346be0c3408ca582068335ece6317fb417f65",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_002/data/master/7527_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "openn-lewis-e-m-012-002-set",
+        "name": "Decorated initial I (openn-lewis-e-m-012-002)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2772,
+      "height": 5078
+    },
+    "master_longest_dimension_cap": 1625,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A winged dragon ornament with blue creature heads, an orange wing, a long red and pink curling form with pale dot decoration, a blue foot and attached red, blue and orange foliage.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "dragon",
+      "creature-head",
+      "bat-wing",
+      "foliage",
+      "curling-body"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "blue",
+      "red",
+      "pink",
+      "orange",
+      "cream",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "winged-dragon-with-curling-red-body-and-foliage",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-012-003",
+    "png": "png/winged-dragon-with-curling-red-body-and-foliage.png",
+    "webp": "webp/winged-dragon-with-curling-red-body-and-foliage.webp",
+    "width": 1307,
+    "height": 1148,
+    "png_bytes": 2334545,
+    "webp_bytes": 1722478,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/winged-dragon-with-curling-red-body-and-foliage.png",
+        "webp": "webp/128/winged-dragon-with-curling-red-body-and-foliage.webp",
+        "width": 128,
+        "height": 112,
+        "png_bytes": 37212,
+        "webp_bytes": 29920
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/winged-dragon-with-curling-red-body-and-foliage.png",
+        "webp": "webp/256/winged-dragon-with-curling-red-body-and-foliage.webp",
+        "width": 256,
+        "height": 225,
+        "png_bytes": 129744,
+        "webp_bytes": 98454
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/winged-dragon-with-curling-red-body-and-foliage.png",
+        "webp": "webp/512/winged-dragon-with-curling-red-body-and-foliage.webp",
+        "width": 512,
+        "height": 450,
+        "png_bytes": 441729,
+        "webp_bytes": 329182
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/winged-dragon-with-curling-red-body-and-foliage.png",
+        "webp": "webp/768/winged-dragon-with-curling-red-body-and-foliage.webp",
+        "width": 768,
+        "height": 675,
+        "png_bytes": 910578,
+        "webp_bytes": 678032
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Inhabited initial S",
+      "object_identifier": "Lewis E M 12:3 Inhabited initial S",
+      "date": "(Unknown, 1300-1399)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_003.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "989f9d2595debfe23e6bb1c7691924e5e1fec10a20fd813f48729849438d2abf",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_003/data/master/7528_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retains the entire connected inhabited ornament, including the red/pink curling form previously misidentified as removable lettering. Upper winged creature and lower terminal head are intertwined with foliate extensions; no complete hidden anatomy is reconstructed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2292,
+      "height": 1924
+    },
+    "master_longest_dimension_cap": 1307,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A worn gold celestial roundel with dark curving bands, retaining the surviving original pigment and gilding. Part of the Walters W.171 Seven Planets set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "roundel",
+      "celestial",
+      "gold",
+      "curved-band"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "worn-gold-curled-celestial-roundel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w171-10r",
+    "png": "png/worn-gold-curled-celestial-roundel.png",
+    "webp": "webp/worn-gold-curled-celestial-roundel.webp",
+    "width": 401,
+    "height": 380,
+    "png_bytes": 246226,
+    "webp_bytes": 206596,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/worn-gold-curled-celestial-roundel.png",
+        "webp": "webp/128/worn-gold-curled-celestial-roundel.webp",
+        "width": 128,
+        "height": 121,
+        "png_bytes": 29905,
+        "webp_bytes": 25646
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/worn-gold-curled-celestial-roundel.png",
+        "webp": "webp/256/worn-gold-curled-celestial-roundel.webp",
+        "width": 256,
+        "height": 243,
+        "png_bytes": 106612,
+        "webp_bytes": 92954
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)",
+      "object_identifier": "W.171, fol. 10r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Worn original pigment and gilding remain opaque. The source is not restored or brightened. Native scan colors retained exactly within opaque artwork; alpha ownership uses a reviewed semantic guide and four-pixel continuous edge matting. No upscale, redraw or vector approximation.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-10r-set",
+        "name": "Walters W.171 Seven Planets"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9559
+    },
+    "master_longest_dimension_cap": 401,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
